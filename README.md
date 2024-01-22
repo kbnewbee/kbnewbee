@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kallol Bairagi</h1>
-<h3 align="center">The EnGinieer</h3>
+<h3 align="center">TheGINIEer</h3>
 
 
 <!--
