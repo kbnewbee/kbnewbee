@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kallol Bairagi</h1>
-<h3 align="center">TheGINIEer</h3>
+<h1 align="center">Hi 👋, I'm Kallol Bairagi, TheGINIEer</h1>
+Aiming to make a career out of software engineering, build applications that runs, understand the importance of scale and memory and always living on the edge for some unknown reason. <br/>
+
+<br/>
+<br/>
+
+⚡Did some graphic designing in the past. <br/>
+⚡I write tech articles to keep documentation of my journey. <br/>
+⚡I am fascinated by Kubernetes, Rust and Web3. <br/>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
