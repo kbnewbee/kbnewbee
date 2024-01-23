@@ -2,11 +2,16 @@
 Aiming to make a career out of software engineering, build applications that runs, understand the importance of scale and memory and always living on the edge for some unknown reason. <br/>
 
 <br/>
-<br/>
 
-⚡Did some graphic designing in the past. <br/>
-⚡I write tech articles to keep documentation of my journey. <br/>
-⚡I am fascinated by Kubernetes, Rust and Web3. <br/>
+🌱 I am learning and working in Java and JavaScript <br/>
+🌱 I am developing applications to cater my needs and interests - building seven-piece <br/>
+🌱 I am learning to learn and unlearn engineering system design <br/>
+🌱 I am curious about AI but can't seem to keep up with the pace of its development <br/>
+
+
+⚡Did some graphic designing in the past <br/>
+⚡I write tech articles to keep documentation of my journey <br/>
+⚡I am fascinated by Kubernetes, Rust and Web3 <br/>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
@@ -25,7 +30,6 @@ Aiming to make a career out of software engineering, build applications that run
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
