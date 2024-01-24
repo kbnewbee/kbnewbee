@@ -1,7 +1,6 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/kbnewbee/kbnewbee/main/Header.svg" alt="Github Stats" />
 </p>
-<h1 align="center">I'm TheGINIEer</h1>
 Aiming to make a career out of software engineering, build applications that runs, understand the importance of scale and memory and always living on the edge for some unknown reason. <br/>
 
 <br/>
