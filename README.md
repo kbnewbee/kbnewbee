@@ -42,5 +42,5 @@ Aiming to make a career out of software engineering, build applications that run
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kbnewbee&show_icons=true&locale=en&layout=compact" alt="kbnewbee" /></p>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/kbnewbee/Footer.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/kbnewbee/kbnewbee/main/Footer.svg" alt="Github Stats" />
 </p>
