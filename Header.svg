@@ -201,9 +201,9 @@ g.typingUnderline rect {
 </path>
 
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
-     text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
+     text-anchor="end" alignment-baseline="hanging" > 
   <textPath xlink:href="#descriptionTyping" >
-      Software Develovement, Architecture and Engineering
+      Software Develovement, Architecture, Engineering &amp; Technology  
   </textPath>
 </text>
 
