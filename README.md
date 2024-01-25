@@ -15,6 +15,15 @@ Aiming to make a career out of software engineering, build applications that run
 ⚡I write tech articles to keep documentation of my journey <br/>
 ⚡I am fascinated by Kubernetes, Rust and Web3 <br/>
 
+Belief 
+Scaling application is tough
+Understanding data is also tough 
+Using data requires skills
+Databases are evergreen irrespective of technological trends
+Documentation is massively underrated 
+Youtube and Github will never die
+Biology is a mystery 
+
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
