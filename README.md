@@ -18,12 +18,12 @@
 🌱 Learning to learn and unlearn engineering system design <br/>
 🌱 Curious about AI but can't seem to keep up with the pace of its development <br/>
 
-### This is me
+### This is me ...
 ⚡Did some graphic designing in the past <br/>
 ⚡Write tech articles to keep documentation of my journey <br/>
 ⚡Fascinated by Kubernetes, Rust and Web3 <br/>
 
-### This is opinion 
+### This is opinion ...
 🚀 Scaling applications is tough <br/>
 🚀 Understanding data is also tough <br/>
 🚀 Databases are evergreen irrespective of technological trends <br/>
