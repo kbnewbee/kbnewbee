@@ -1,7 +1,8 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/kbnewbee/kbnewbee/main/Header.svg" alt="Github Stats" />
 </p>
-Aiming to make a career out of software engineering, build applications that runs, understand the importance of scale and memory and always living on the edge for some unknown reason. <br/>
+
+### Aiming to make a career out of software engineering - building applications that runs, understanding the importance of scale and memory and always living on the edge for some unknown reason <br/>
 
 <br/>
 
@@ -10,19 +11,18 @@ Aiming to make a career out of software engineering, build applications that run
 🌱 I am learning to learn and unlearn engineering system design <br/>
 🌱 I am curious about AI but can't seem to keep up with the pace of its development <br/>
 
-
+### This is me
 ⚡Did some graphic designing in the past <br/>
 ⚡I write tech articles to keep documentation of my journey <br/>
 ⚡I am fascinated by Kubernetes, Rust and Web3 <br/>
 
-Belief 
-Scaling application is tough
-Understanding data is also tough 
-Using data requires skills
-Databases are evergreen irrespective of technological trends
-Documentation is massively underrated 
-Youtube and Github will never die
-Biology is a mystery 
+### This is opinion 
+🚀 Scaling applications is tough <br/>
+🚀 Understanding data is also tough <br/>
+🚀 Databases are evergreen irrespective of technological trends <br/>
+🚀 Documentation is massively underrated <br/>
+🚀 Youtube and Github will never die <br/>
+🚀 Biology is a mystery <br/>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
