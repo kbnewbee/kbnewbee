@@ -1,5 +1,10 @@
 <p align="center">
-        <img src="https://raw.githubusercontent.com/kbnewbee/kbnewbee/main/Header.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/kbnewbee/kbnewbee/main/Header.svg" alt="Github Stats" />
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ### Aiming to make a career out of software engineering - building applications that runs, understanding the importance of scale and memory and always living on the edge for some unknown reason !! <br/>
