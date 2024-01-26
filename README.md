@@ -2,19 +2,18 @@
         <img src="https://raw.githubusercontent.com/kbnewbee/kbnewbee/main/Header.svg" alt="Github Stats" />
 </p>
 
-### Aiming to make a career out of software engineering - building applications that runs, understanding the importance of scale and memory and always living on the edge for some unknown reason <br/>
+### Aiming to make a career out of software engineering - building applications that runs, understanding the importance of scale and memory and always living on the edge for some unknown reason !! <br/>
 
-<br/>
-
-🌱 I am learning and working in Java and JavaScript <br/>
-🌱 I am developing applications to cater my needs and interests - building seven-piece <br/>
-🌱 I am learning to learn and unlearn engineering system design <br/>
-🌱 I am curious about AI but can't seem to keep up with the pace of its development <br/>
+### I am ...
+🌱 Growing and working in Java and JavaScript <br/>
+🌱 Developing applications to cater my needs and interests - building seven-piece <br/>
+🌱 Learning to learn and unlearn engineering system design <br/>
+🌱 Curious about AI but can't seem to keep up with the pace of its development <br/>
 
 ### This is me
 ⚡Did some graphic designing in the past <br/>
-⚡I write tech articles to keep documentation of my journey <br/>
-⚡I am fascinated by Kubernetes, Rust and Web3 <br/>
+⚡Write tech articles to keep documentation of my journey <br/>
+⚡Fascinated by Kubernetes, Rust and Web3 <br/>
 
 ### This is opinion 
 🚀 Scaling applications is tough <br/>
