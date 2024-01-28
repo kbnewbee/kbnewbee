@@ -7,7 +7,7 @@
   
   <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/twitter"></a>
   <a href="https://www.npmjs.com/~peterthehan">
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
+
 </p>
 
 ### Aiming to make a career out of software engineering - building applications that runs, understanding the importance of scale and memory and always living on the edge for some unknown reason !! <br/>
