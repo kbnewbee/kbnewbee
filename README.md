@@ -9,6 +9,7 @@
   <a href="https://www.npmjs.com/~peterthehan">
 
 </p>
+hashnode twitter behance portfolio links todo
 
 ### Aiming to make a career out of software engineering - building applications that runs, understanding the importance of scale and memory and always living on the edge for some unknown reason !! <br/>
 
