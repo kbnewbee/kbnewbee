@@ -32,6 +32,14 @@ hashnode twitter behance portfolio links todo
 🚀 Youtube and Github will never die <br/>
 🚀 Biology is a mystery <br/>
 
+### I am unsure about ...
+Worth of Hobbies
+coding a game
+Real freedom
+Myth of life
+Dream of Joy
+Power of will
+
 <h3 align="left">Languages and Tools</h3>
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
