@@ -11,6 +11,12 @@
 </p>
 hashnode twitter behance portfolio links todo
 
+tech tools update with logo
+softwares ides with logo
+stats reorganize and recolor
+
+
+
 ### Aiming to make a career out of software engineering - building applications that runs, understanding the importance of scale and memory and always living on the edge for some unknown reason !! <br/>
 
 ### I am ...
