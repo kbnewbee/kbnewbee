@@ -39,7 +39,7 @@ stats reorganize and recolor
 🚀 Biology is a mystery <br/>
 
 ### I am unsure about ...
-Worth of Hobbies
+Worth of Hobbies JAX-B API not found . WADL feature is disabled.
 coding a game
 Real freedom
 Myth of life
